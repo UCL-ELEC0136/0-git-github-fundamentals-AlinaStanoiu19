@@ -10,4 +10,5 @@
 7. Stage, commit and push
 8. SETTING UP YOUR DEV ENVIRONMENT
 
+*This is a change on the new branch*
 
